@@ -154,8 +154,3 @@ struct Sys: Codable {
 
 &nbsp;
 
-
-
-Thx for attention :3
-
-You can support me by following :>

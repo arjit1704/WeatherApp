@@ -145,7 +145,7 @@ struct Sys: Codable {
 - An OpenWeatherMap API key
 
 #### Installation steps
-1. Clone the repo: `git clone https://github.com/manste1n/simpleweather_app`
+1. Clone the repo: `git clone https://github.com/arjit1704/WeatherApp.git`
 2. Add a Constants.swift file in the root folder of your project (same folder with Info.plist, Assets.xcassets, etc)
 3. Add the OpenWeatherMap API key and URL
 
